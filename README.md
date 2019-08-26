@@ -1,5 +1,6 @@
 # Mongoose UUID Data type
-========================
+
+Allow support of UUID (v1 and v4) type in binary format.
 
 [![NPM Package](https://img.shields.io/npm/v/mongoose-uuid2.svg?style=flat-square)](https://www.npmjs.org/package/mongoose-uuid2)
 [![Build Status](https://img.shields.io/travis/joax-denizen/mongoose-uuid.svg?branch=master&style=flat-square)](https://travis-ci.org/njoax-denizen/mongoose-uuid)
